@@ -62,5 +62,5 @@ The repository is organized into folders based on the programming language or to
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/alx-software-engineering.git
+   git clone https://github.com/seifemadeldin/alx-software-engineering.git
    cd alx-software-engineering
